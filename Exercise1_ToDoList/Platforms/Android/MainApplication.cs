@@ -1,7 +1,7 @@
 ﻿using Android.App;
 using Android.Runtime;
 
-namespace Educate_DotNetMAUI
+namespace Exercise1_ToDoList
 {
     [Application]
     public class MainApplication : MauiApplication

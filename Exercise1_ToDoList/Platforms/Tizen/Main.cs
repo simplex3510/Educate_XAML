@@ -2,7 +2,7 @@ using System;
 using Microsoft.Maui;
 using Microsoft.Maui.Hosting;
 
-namespace Educate_DotNetMAUI
+namespace Exercise1_ToDoList
 {
     internal class Program : MauiApplication
     {

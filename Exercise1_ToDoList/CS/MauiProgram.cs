@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.Logging;
 
-namespace Educate_DotNetMAUI
+namespace Exercise1_ToDoList
 {
     public static class MauiProgram
     {
@@ -18,6 +18,8 @@ namespace Educate_DotNetMAUI
 #if DEBUG
     		builder.Logging.AddDebug();
 #endif
+
+            builder.Services.AddSingleton<MainViewModel>();
 
             return builder.Build();
         }

@@ -1,7 +1,7 @@
 ﻿using ObjCRuntime;
 using UIKit;
 
-namespace Educate_DotNetMAUI
+namespace Exercise1_ToDoList
 {
     public class Program
     {

@@ -1,6 +1,6 @@
 ﻿using Foundation;
 
-namespace Educate_DotNetMAUI
+namespace Exercise1_ToDoList
 {
     [Register("AppDelegate")]
     public class AppDelegate : MauiUIApplicationDelegate

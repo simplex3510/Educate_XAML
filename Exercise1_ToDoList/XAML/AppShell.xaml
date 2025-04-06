@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+    
 <Shell
-    x:Class="Educate_DotNetMAUI.AppShell"
+    x:Class="Exercise1_ToDoList.AppShell"
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-    xmlns:local="clr-namespace:Educate_DotNetMAUI"
+    xmlns:local="clr-namespace:Exercise1_ToDoList"
     Shell.FlyoutBehavior="Flyout"
-    Title="Educate_DotNetMAUI">
+    Title="Exercise1_ToDoList">
 
     <ShellContent
         Title="Home"

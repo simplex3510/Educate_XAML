@@ -1,4 +1,4 @@
-﻿namespace Educate_DotNetMAUI
+﻿namespace Exercise1_ToDoList
 {
     public partial class AppShell : Shell
     {
